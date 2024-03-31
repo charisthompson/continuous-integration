@@ -16,12 +16,6 @@ jobs:
     - name: Run a one-line script
       run: echo "Hello, world!"
 
-on:
-  push:
-    branches: [ "main" ]
-  pull_request:
-    branches: [ "main" ]
-
 jobs:
   build:
 
