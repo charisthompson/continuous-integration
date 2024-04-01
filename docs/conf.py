@@ -6,7 +6,7 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'CI'
+project = 'continuousintegration'
 copyright = '2024, Charis Thompson'
 author = 'Charis Thompson'
 
